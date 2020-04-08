@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/Users/kentpeng/Downloads/glibc-2.1.2/sysdeps/mach/hurd'
+let g:netrw_dirhist_2='/Users/kentpeng/Learning/angularjs/hello/bower_components'
+let g:netrw_dirhist_3='/private/etc/salt'
+let g:netrw_dirhist_4='/home/kentpeng/workspace/src/github.com/qlyzpqz/store_manager'
+let g:netrw_dirhist_5='/home/kentpeng/workspace/src/github.com/qlyzpqz/store_manager/script'
